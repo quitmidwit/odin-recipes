@@ -1,0 +1,1 @@
+This is a basic HTML project assigned by The Odin Project. The goal here is to make a bare-bones recipe site while implementing pictures, lists, and referential links. I chose to make the base theme of this assignment around the cats that I'm taking care of for my friend.
